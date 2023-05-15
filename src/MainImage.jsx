@@ -49,7 +49,7 @@ export default function MainImage() {
         alt="메인이미지"
       />
       <MainTitle>
-        <div>영진직업전문학교</div>
+        <div>영진직업전문학교!</div>
         <SubTitle>취업률 전국 최고</SubTitle>
       </MainTitle>
     </ContainerImage>
