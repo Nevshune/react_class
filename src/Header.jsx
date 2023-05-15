@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import Logos from "./logo.png";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 const Container = styled.div`
   width: 100%;
@@ -7,7 +9,7 @@ const Container = styled.div`
   justify-content: center;
 `;
 const GlobalNav = styled.div`
-  width: 1000px;
+  width: 1080px;
   display: flex;
   justify-content: space-between;
   height: 80px;
